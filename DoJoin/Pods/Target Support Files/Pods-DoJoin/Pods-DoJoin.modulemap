@@ -1,0 +1,6 @@
+framework module Pods_DoJoin {
+  umbrella header "Pods-DoJoin-umbrella.h"
+
+  export *
+  module * { export * }
+}
